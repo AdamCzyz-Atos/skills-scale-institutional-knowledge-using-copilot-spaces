@@ -1,7 +1,20 @@
 # OctoAcme Project Management Docs
 
+Welcome! This README serves as the central entry point for all project management process documentation used by OctoAcme. It provides a summary of our overall approach and direct links to detailed guides, templates, and reference materials.
 
-This README provides links to all project management process documents and a brief summary of the project management processes used by OctoAcme.
+---
+
+## OctoAcme Project Management Methodology
+
+OctoAcme uses a structured, iterative approach to project management built on the following core principles:
+
+- **Customer-first**: All projects start by clarifying customer value and business objectives.
+- **Documented Initiation**: Each project begins with a one-pager and stakeholder alignment.
+- **Actionable Planning**: Projects are broken into milestones and prioritized backlogs.
+- **Delivery Rhythm**: Teams follow clear sprint/cadence cycles, using visible project boards and automated CI/CD pipelines.
+- **Rigorous Risk Management**: Risks and dependencies are tracked and communicated transparently.
+- **Quality Mindset**: Testing, reviews, and defined criteria of done are mandatory throughout.
+- **Continuous Improvement**: Regular retrospectives ensure learning and process updates.
 
 ---
 
@@ -33,33 +46,8 @@ Key roles are **Project Manager** (coordinates delivery, schedule, and communica
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Pre-release requirements, deployment checklist, rollback playbook, and release notes template. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | How to run effective retrospectives and convert learnings into tracked, actionable improvements. |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Definitions, responsibilities, goals, and typical communication patterns for Developers, Product Managers, and Project Managers. |
-=======
-Welcome! This README serves as the central entry point for all project management process documentation used by OctoAcme. It provides a summary of our overall approach and direct links to detailed guides, templates, and reference materials.
 
-## OctoAcme Project Management Methodology
-
-OctoAcme uses a structured, iterative approach to project management built on the following core principles:
-
-- **Customer-first**: All projects start by clarifying customer value and business objectives.
-- **Documented Initiation**: Each project begins with a one-pager and stakeholder alignment.
-- **Actionable Planning**: Projects are broken into milestones and prioritized backlogs.
-- **Delivery Rhythm**: Teams follow clear sprint/cadence cycles, using visible project boards and automated CI/CD pipelines.
-- **Rigorous Risk Management**: Risks and dependencies are tracked and communicated transparently.
-- **Quality Mindset**: Testing, reviews, and defined criteria of done are mandatory throughout.
-- **Continuous Improvement**: Regular retrospectives ensure learning and process updates.
-
-## Process Docs Index
-
-| Document | Description |
-|---|---|
-| [Project Management Overview](octoacme-project-management-overview.md) | Introduction to OctoAcme's overall project management approach, roles, and key artifacts. |
-| [Project Initiation Guide](octoacme-project-initiation.md) | How to kick off a project, define scope, and align stakeholders. |
-| [Project Planning](octoacme-project-planning.md) | Guidance on roadmaps, milestones, backlog creation, and sprint planning. |
-| [Execution & Tracking](octoacme-execution-and-tracking.md) | Running sprints, tracking progress, and managing day-to-day delivery. |
-| [Risk Management & Communication](octoacme-risks-and-communication.md) | Identifying, tracking, and communicating risks and dependencies. |
-| [Release & Deployment Guide](octoacme-release-and-deployment.md) | Steps and criteria for releasing and deploying software. |
-| [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Running retrospectives and driving process improvements. |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Descriptions of the key roles and personas involved in OctoAcme projects. |
+---
 
 ## Suggestions & Updates
 
